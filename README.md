@@ -4,12 +4,12 @@
 https://hellokoding.com/registration-and-login-example-with-spring-security-spring-boot-spring-data-jpa-hsql-jsp/
 
 ## Prerequisites
-- JDK 1.7 or later
+- JDK 1.8 or later
 - Maven 3 or later
 
 ## Stack
 - Spring Security
-- Spring Boot 1.3.8
+- Spring Boot 2.1.1
 - Spring Data JPA
 - Maven
 - JSP
